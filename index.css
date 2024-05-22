@@ -1,0 +1,17 @@
+#display_container {
+  height: 3rem;
+  position: relative;
+  width: 100%;
+  border: 1px solid;
+  padding: 3px;
+}
+
+#display_container .box {
+  position: absolute;
+  background-color: red;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.3rem;
+  top: 0.55rem;
+  left: 0px;
+}
